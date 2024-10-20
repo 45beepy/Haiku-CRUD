@@ -1,6 +1,6 @@
-# Haiku-CRUD
+# Haiku Haven
 
-Haiku-CRUD is a full-stack JavaScript application that allows users to create, read, update, and delete haikus. It features secure user authentication, image uploads with AI-powered enhancements, and a MongoDB backend.
+Haik-Haven is a full-stack JavaScript application that allows users to create, read, update, and delete haikus. It features secure user authentication, image uploads with AI-powered enhancements, and a MongoDB backend.
 
 ## Features
 
@@ -34,8 +34,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/45beepy/Haiku-CRUD.git
-   cd Haiku-CRUD
+   git clone https://github.com/45beepy/Haiku-Haven.git
+   cd Haiku-Haven
    ```
 
 2. Install dependencies:
@@ -88,7 +88,7 @@ Contributions to Haiku-CRUD are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See LICENSE for more details.
 
 ## Contact
 
