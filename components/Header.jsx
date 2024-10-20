@@ -6,7 +6,7 @@ export default async function Header() {
   const user = await getUserFromCookie()
 
   return (
-    <header className="bg-gray-100 shadow-md">
+    <header>
       <div className="container mx-auto">
         <div className="navbar">
           <div className="flex-1">
@@ -39,6 +39,7 @@ export default async function Header() {
           </div>
         </div>
       </div>
+      <hr />
     </header>
   )
 }
