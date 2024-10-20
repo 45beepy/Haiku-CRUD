@@ -32,7 +32,7 @@ export default async function Header() {
               )}
               {!user && (
                 <li>
-                  <Link href="/login">Log In</Link>
+                  <Link className="btn  btn-primary" href="/login">Log In</Link>
                 </li>
               )}
             </ul>
